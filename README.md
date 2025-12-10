@@ -9,10 +9,15 @@ Este repositório reúne implementações das tarefas e trabalhos práticos da d
 📁 Estrutura do Repositório
 .
 ├── TP1/               # Primeiro trabalho prático
+
 ├── TP02-ACD/          # Segundo trabalho prático
+
 ├── SuperM/            # Projeto adicional ou extra
+
 ├── Circuito/          # Conjunto de algoritmos e exercícios
+
 ├── AppGUI/            # Aplicativo com interface gráfica (caso aplicável)
+
 └── README.md          # Este arquivo de documentação
 
 ✅ Conteúdo do Repositório
@@ -27,22 +32,22 @@ Código-fonte em Java e outros arquivos auxiliares
 
 🚀 Como usar
 
-Clone o repositório:
+* Clone o repositório:
 
   git clone https://github.com/RodrigoPeraca/REPO-ACD.git
 
 
-Acesse o diretório desejado, por exemplo:
+* Acesse o diretório desejado, por exemplo:
 
   cd REPO-ACD/TP1
 
 
-Compile os arquivos Java (caso aplicável):
+* Compile os arquivos Java (caso aplicável):
 
   javac NomeDoArquivo.java
 
 
-Execute o programa:
+* Execute o programa:
 
   java NomeDoArquivo
 
@@ -56,9 +61,3 @@ Rodrigo Peraça
 📄 Licença
 
 Este repositório pode ser utilizado para fins acadêmicos e estudantis.
-
-
-
-Inserir exemplos de entrada/saída
-
-Padronizar a organização interna das pastas
