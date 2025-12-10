@@ -1,0 +1,27 @@
+Resultados do algoritmo RadixSort
+Número de entradas: 100
+Execuções: 20
+Tempos (ns):
+3382100
+39800
+48200
+43200
+41300
+38900
+33500
+28200
+32500
+33900
+27600
+26700
+26400
+33100
+28200
+31800
+31300
+31000
+54900
+31100
+
+Tempo médio (ns): 202185
+Tempo médio (ms): 0.202185

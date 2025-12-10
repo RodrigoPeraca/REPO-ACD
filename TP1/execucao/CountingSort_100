@@ -1,0 +1,27 @@
+Resultados do algoritmo CountingSort
+Número de entradas: 100
+Execuções: 20
+Tempos (ns):
+6748100
+314300
+408200
+346600
+281600
+270300
+274400
+273700
+270600
+311800
+275800
+298200
+338300
+270100
+290100
+273700
+203400
+192900
+183300
+172000
+
+Tempo médio (ns): 599870
+Tempo médio (ms): 0.59987

@@ -1,0 +1,27 @@
+Resultados do algoritmo InsertionSort
+Número de entradas: 100
+Execuções: 20
+Tempos (ns):
+969200
+73900
+116700
+169400
+57200
+54600
+55800
+66600
+62800
+56000
+55100
+61400
+54500
+59100
+63300
+64000
+59900
+61700
+72300
+66500
+
+Tempo médio (ns): 115000
+Tempo médio (ms): 0.115

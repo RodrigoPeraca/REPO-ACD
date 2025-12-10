@@ -1,0 +1,27 @@
+Resultados do algoritmo ShellSort
+Número de entradas: 100
+Execuções: 20
+Tempos (ns):
+855500
+32000
+43200
+33700
+38500
+45500
+116400
+43000
+31800
+34100
+32500
+28800
+30600
+37000
+30600
+28100
+30200
+29100
+34200
+30000
+
+Tempo médio (ns): 79240
+Tempo médio (ms): 0.07924

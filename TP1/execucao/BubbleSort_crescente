@@ -1,0 +1,27 @@
+Resultados do algoritmo BubbleSort
+Número de entradas: 10000
+Execuções: 20
+Tempos (ns):
+1050300
+195700
+196100
+225000
+195100
+197200
+248600
+204600
+215000
+64000
+47200
+49500
+58100
+42400
+49200
+36400
+36400
+36700
+36300
+36600
+
+Tempo médio (ns): 161020
+Tempo médio (ms): 0.16102

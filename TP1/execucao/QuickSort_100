@@ -1,0 +1,27 @@
+Resultados do algoritmo QuickSort
+Número de entradas: 100
+Execuções: 20
+Tempos (ns):
+984600
+45800
+51700
+40100
+44300
+32000
+10500
+9600
+16800
+9800
+11400
+19600
+9200
+6800
+7700
+7600
+8400
+11600
+121700
+21800
+
+Tempo médio (ns): 73550
+Tempo médio (ms): 0.07355

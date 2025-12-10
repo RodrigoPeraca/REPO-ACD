@@ -1,0 +1,27 @@
+Resultados do algoritmo MergeSort
+Número de entradas: 100
+Execuções: 20
+Tempos (ns):
+1065800
+155300
+117800
+108500
+133000
+72300
+39900
+27800
+31900
+29300
+49100
+32100
+47000
+46800
+26200
+27100
+25900
+27900
+48900
+43600
+
+Tempo médio (ns): 107810
+Tempo médio (ms): 0.10781

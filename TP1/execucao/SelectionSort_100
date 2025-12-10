@@ -1,0 +1,27 @@
+Resultados do algoritmo SelectionSort
+Número de entradas: 100
+Execuções: 20
+Tempos (ns):
+1066400
+160900
+177700
+157100
+115500
+93200
+92800
+113200
+98000
+93500
+91700
+98600
+75900
+35200
+32800
+52500
+26300
+35800
+34000
+24600
+
+Tempo médio (ns): 133785
+Tempo médio (ms): 0.133785

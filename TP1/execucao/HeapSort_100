@@ -1,0 +1,27 @@
+Resultados do algoritmo HeapSort
+Número de entradas: 100
+Execuções: 20
+Tempos (ns):
+1208500
+36500
+22000
+24900
+19900
+34900
+61000
+19200
+28800
+15400
+19200
+17900
+23100
+22200
+19600
+21800
+25200
+18900
+30700
+177400
+
+Tempo médio (ns): 92355
+Tempo médio (ms): 0.092355

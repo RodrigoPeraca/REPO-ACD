@@ -1,0 +1,27 @@
+Resultados do algoritmo BucketSort
+Número de entradas: 100
+Execuções: 20
+Tempos (ns):
+2214600
+107400
+76200
+76600
+98400
+119500
+57500
+56800
+69700
+74100
+53300
+35600
+41700
+24900
+46000
+36600
+30900
+21800
+28800
+21900
+
+Tempo médio (ns): 164615
+Tempo médio (ms): 0.164615
